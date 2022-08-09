@@ -16,3 +16,4 @@
 ### Total Sales By Sales Team and highlight for the Top Sales Team name and their revenue.
 ### Consultants By Total Sales, and highlight for the Top Consultant name and their revenue.
 ### Revenue Broken Down By Training Models.
+### Slicer for Sales team.
