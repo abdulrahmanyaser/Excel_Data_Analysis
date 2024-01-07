@@ -1,4 +1,6 @@
-# Big Fashion Analysis
+# Big Fashion Analysis  
+
+![images](https://github.com/abdulrahmanyaser/Excel_Data_Analysis/assets/74540804/13998305-6fdc-4595-af33-90ca8b833041)
 
 This Excel dashboard showcased a smart approach to sales data analysis. It provides clear visualizations of trends and performance by store, category, and time period, empowering users to make informed decisions. The interactivity is a bonus, allowing for deeper exploration and targeted analysis. It's a valuable tool for businesses with multiple stores and product categories.
 
